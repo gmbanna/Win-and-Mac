@@ -1,0 +1,34 @@
+প্রথমে কোন নতুন প্রোফাইল তৈরি করতে গেলে, যে ফোল্ডার আ ফাইল রাখব সেখানে রাইট ক্লিক করে Git bash here এ ক্লিক করতে হবে, 
+তারপর নিচের নিয়ম ফলো করতে হবে--‎
+
+1. git config --global user.name gmbanna (you can chose any user.name on gmbanna) একবার করলে চলবে
+   git config --global user.email gmbanna@gmail.com ( you can use your git email address here)
+
+2 intialized: (Here we have to intialized our git)
+   git init
+
+3. optional: git status (Here we can check our file, what is the present situation)
+
+4. How to file add:
+	git add .  (you have to type carefully git than speace than add than speace than dot)
+
+5. How to save: 
+	git commit -m "our messege anything we can type"
+
+6. git push
+
+
+কপি করার জন্য ব্যবহার করতে হয়ঃ 
+
+7. git clone: (This function we use for copy or download repository)
+	git clone than https://github.com/gmbanna/winwin2022.git (after type git clone than go to git hub 	
+	repository than copy ripository link and peast terminal where we type git clone)
+
+
+
+git remote add origin https://github.com/cameronmcnz/example-website.git
+git push -u -f origin master
+
+
+
+
