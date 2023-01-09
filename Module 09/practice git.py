@@ -1,3 +1,3 @@
 x = 'banna'
 y = 'tuhin'
-print(x+y)
+print(x)
